@@ -52,10 +52,10 @@ const SITE = {
   // --- Latest YouTube video (apne aap update hota hai) ---
   // Channel ID kaise nikaale: YouTube Studio > Settings > Channel > Advanced settings.
   // "UC" se shuru hota hai. Khali chhodega to ye section chhup jayega.
-  youtubeChannelId: "",
+  youtubeChannelId: "UCb7oD9VTPrQcb0mCj5MJHNA",
 
   // --- Community ---
-  discordInvite: "#",
+  discordInvite: "https://discord.gg/XcUkm6mMEm",
 
   // Giscus = free Reddit jaisa discussion (GitHub Discussions pe chalta hai).
   // Setup: https://giscus.app pe jaa, apna repo daal, jo 4 values mile wo yahan paste kar.
